@@ -1,0 +1,43 @@
+﻿using UnityEngine;
+using System.Collections;
+
+public class Tags {
+	public const string barrier = "barrier";
+	public const string player = "Player";
+	public const string enemy = "Enemy";
+	public const string move_target = "Movetarget";
+	public const string dead = "dead";
+	public const string allies = "Allies";
+	public const string ground = "Ground";
+	public const string Waypoint = "Waypoint";
+	public const string Object = "Object";
+	public const string yousai_path = "yousai_path";
+	public const string spawn = "spawn";
+	public const string FirstSquard = "FirstSquard";
+	public const string SecondSquard = "SecondSquard";
+	public const string ThirdSquard = "ThirdSquard";
+	public const string ForthSquard = "ForthSquard";
+	public const string FifthSquard = "FifthSquard";
+	public const string SixthSquard = "SixthSquard";
+	public const string MainCamera = "MainCamera";
+	public const string PlayerAPI = "PlayerAPI";
+	public const string mapDistance = "mapDistance";
+	public const string HealthBar = "HealthBar";
+	public const string BuildPoint = "BuildPoint";
+	public const string Gamesetting = "Gamesetting";
+	public const string GameUI = "GameUI";
+	public const string ControlNode = "ControlNode";
+	public const string AlliesNode = "AlliesNode";
+	public const string EnemiesNode = "EnemiesNode";
+	public const string EnemyCommander = "EnemyCommander";
+	public const string MissionHelper = "MissionHelper";
+	public const string Signal = "Signal";
+	public const string AlliesDeployPoint = "AlliesDeployPoint";
+	public const string AlliesSpawnPoint = "AlliesSpawnPoint";
+	public const string AlliesReforcementPoint = "AlliesReforcementPoint";
+	public const string EnemiesDeployPoint = "EnemiesDeployPoint";
+	public const string BossSpawnPoint = "BossSpawnPoint";
+	public const string EnemiesReforcementPoint = "EnemiesReforcementPoint";
+	public const string CameraPoint = "CameraPoint";
+	public const string BulletFlames = "BulletFlames";
+}
